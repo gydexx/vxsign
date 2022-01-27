@@ -1,8 +1,8 @@
 # vxsign
 
-> Canvas 手写签字 电子签名
+> 手写签字 电子签名
 
-![npm](https://img.shields.io/npm/x-extends/vxe-table) ![GitHub package.json version](https://img.shields.io/github/package-json/v/x-extends/vxe-table)
+![npm](https://camo.githubusercontent.com/fd0da4a0796ab89241414b2644360881966f28144e90bf7e22ab58cface0d66a/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f7678652d7461626c652e7376673f7374796c653d666c61742d737175617265) ![GitHub package.json version](https://img.shields.io/github/package-json/v/x-extends/vxe-table)
 
 ## 功能
 1. 兼容 PC 和 Mobile；
