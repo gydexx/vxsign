@@ -2,7 +2,7 @@
 
 > Canvas 手写签字 电子签名
 
-![npm](https://img.shields.io/npm/dm/vxsign) ![GitHub package.json version](https://img.shields.io/github/package-json/v/jaimecheng/vxsign)
+![npm](https://img.shields.io/npm/x-extends/vxe-table) ![GitHub package.json version](https://img.shields.io/github/package-json/v/x-extends/vxe-table)
 
 ## 功能
 1. 兼容 PC 和 Mobile；
@@ -10,7 +10,6 @@
 3. 自定义画布尺寸（导出图尺寸），画笔粗细、颜色，画布背景色；
 4. 支持裁剪 （针对需求：有的签字需要裁剪掉四周空白）。
 5. 导出图片格式为 `base64`；
-6. [示例demo](https://jaimecheng.github.io/vxsign/demo/)
 
 ## 安装
 
